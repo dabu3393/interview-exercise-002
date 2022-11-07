@@ -23,4 +23,10 @@ This is a little exercise to help you get a feel for what would be asked of you 
 3. Pull JSON data from the ASTRO API for the location you choose in STEP ONE
 4. Print the Cloud Cover percentage for this day for your choosen location
 
+## STEP THREE: CHOOISE YOUR OWN ADVENTURE!
+3 options for you to choose from, or do multiple if you like!
+* Option 1) Enhance your app to take inputs for the location and do the weather lookup.  Update the location query to use a variety of inputs like city/state or zip code.
+* Option 2) Build an HTTP server (e.g. - Django but any framework is fine) that exposes a single endpoint which takes the zip code as an argument and returns the weather data in a JSON response
+* Option 3) Build a UI (e.g. - Tkinter) which takes the zip code as a single input element and prints the weather data for it
+
 Don't forget to write a couple quick notes about the exercise in NOTES.md!  Were parts too hard, to easy, were there parts you knew once but had forgotten, did you learn something new, etc.?  Good luck!
